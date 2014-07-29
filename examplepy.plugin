@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python
+Module=examplepy
+IAge=3
+Name=AAA YEE
+Description=A Python plugin example
+Authors=Jesse van den Kieboom <jesse@icecrew.nl>
+Copyright=Copyright © 2006 Jesse van den Kieboom <jesse@icecrew.nl>
+Website=http://www.gedit.org
