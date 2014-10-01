@@ -1,5 +1,21 @@
-    aaa         
-        bbb
-	cccc
-    
-        
+
+
+int veryLongFunctionInDaHouse(int aadds, int asdf,
+			      int youuuu, int zzz) {
+    rollRoll();
+    if (true)
+	fuckit();
+}
+
+
+int main() {
+
+    for (int i = 0; i <= 10; i++) {
+	while (crap == true) {
+	    suckballs();
+	
+	}
+    }
+
+    return 0;
+}
